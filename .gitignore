@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Optional: npm debug
+npm-debug.log*
+
+# Optional: coverage folder for tests
+coverage/
